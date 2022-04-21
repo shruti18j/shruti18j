@@ -29,9 +29,9 @@
             <td>
            <img src="https://github-readme-stats.vercel.app/api?username=shruti18j&show_icons=true"/>
             </td>
-            <td>
+           <!-- <td>
               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti18j&layout=compact"/>
-          </td>
+          </td>-->
             <td>
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti18j"/>
           </td>

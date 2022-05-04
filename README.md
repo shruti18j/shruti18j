@@ -22,7 +22,6 @@
 
   
    :fire: My Stats :
-   <br>
   <table>
     <tbody>
         <tr>

@@ -2,6 +2,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Self+taught;Always+exploring+and+learning)](https://git.io/typing-svg)-->
 <!--[![Linkedin Badge](https://img.shields.io/badge/-shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-20720344)-->
 <div id="header" align="center">
+  <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 

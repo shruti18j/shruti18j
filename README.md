@@ -76,7 +76,7 @@
      </div>
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-20720344) -->
-[![Linkedin Badge](https://img.shields.io/badge/-shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-20720344)
+[![Linkedin Badge](https://img.shields.io/badge/-shruti-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shruti-sinha-20720344](https://www.linkedin.com/in/shruti-sinha-ssinha))
 
 
   

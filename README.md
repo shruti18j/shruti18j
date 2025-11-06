@@ -3,7 +3,7 @@
 <!--[![Linkedin Badge](https://img.shields.io/badge/-shruti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-20720344)-->
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDB2ZG5rMDY5c3YxZ2lkMWlzdWZrNm4zejY2bHNocWZ5d3c2azBqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1XCcD9VLQZ2Io/giphy.gif" width="100"/>
 </div>
 
 
